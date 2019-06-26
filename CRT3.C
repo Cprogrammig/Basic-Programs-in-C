@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ float f,c,fah,cel;
+ clrscr();
+ printf("Enter celcius temp:");
+ scanf("%f",&c);
+ printf("Enter fahrenheit temp:");
+ scanf("%f",&f);
+ fah=((c*9)/5)+32;
+ cel=(f-32)*5/9;
+ printf("Required celcius value for given %2f fah value : %2f \n",f,cel);
+ printf("Required fahrenheit value for given %2f cel value : %2f\n ",c,fah);
+ getch();
+
+}
