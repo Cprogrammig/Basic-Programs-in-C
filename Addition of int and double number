@@ -1,4 +1,4 @@
-/*Addition of integer and double*/
+/*Addition of a integer number  and a double number*/
 #include<stdio.h>
 #include<conio.h>
 void main()
