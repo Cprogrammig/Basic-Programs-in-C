@@ -1,5 +1,5 @@
 
-/*Product of 1to n numbers*/
+/*Product of 1 to n numbers*/
 #include<stdio.h>
 int main()
 {
