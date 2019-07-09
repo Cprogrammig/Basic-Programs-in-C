@@ -1,3 +1,4 @@
+/*Determine whether given number is positive ,negative or zero*/
 #include<stdio.h>
 #include<conio.h>
 void main()
