@@ -1,4 +1,4 @@
-/*Converting numerical digit into alphabet from 0 to 9*/
+/*Converting  a numerical digit into alphabet from 0 to 9*/
 #include<stdio.h>
 #include<conio.h>
 void main()
