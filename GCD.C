@@ -1,0 +1,24 @@
+/*GCD and LCM when a is greater than b*/
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ int a,b,c,pro,d;
+ clrscr();
+ printf("Enter two numbers:\n");
+ scanf("%d %d",&a,&b);
+ pro=a*b;
+ while(c!=0)
+ {
+   c=0;
+   c=a%b;
+   a=b;
+   b=c;
+ }
+ printf("GCD:%d\n",a);
+ d=pro/a;
+ printf("LCM:%d\n",d);
+
+ getch();
+
+}
