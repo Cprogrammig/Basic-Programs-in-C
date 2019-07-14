@@ -1,3 +1,4 @@
+/*Basic structure of c*/
 #include<stdio.h>      //header files
 #include<conio.h>   
 void main
