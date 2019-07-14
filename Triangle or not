@@ -1,4 +1,4 @@
-/*Triangle can be formed or not */
+/*Triangle can be formed or not when length of sides is given */
 #include<stdio.h>
 int main()
 {
