@@ -1,3 +1,4 @@
+/*To find roots when coffecients of equation are given*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
