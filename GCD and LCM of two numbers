@@ -3,7 +3,7 @@
 #include<conio.h>
 void main()
 {
- int a,b,c,pro,d;
+ int a,b,c=1,pro,d;
  clrscr();
  printf("Enter two numbers:\n");
  scanf("%d %d",&a,&b);
