@@ -1,4 +1,4 @@
-/*Printing grades of a student by using loops*/
+/*Printing grades of a student by using conditional statements*/
 #include<stdio.h>
 int main()
 {
