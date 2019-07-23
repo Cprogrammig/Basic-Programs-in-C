@@ -1,4 +1,4 @@
-/*Current Bill using loops*/
+/*Current Bill */
 #include<stdio.h>
 int main()
 {
